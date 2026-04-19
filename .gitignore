@@ -1,6 +1,11 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/.vs
+﻿/.vs
 /.idea
+java
+*.o
+*.swp
+*.swo
+build
+test
+dev
+private
+
